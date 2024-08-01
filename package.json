@@ -1,7 +1,7 @@
 {
   "name": "b-planet",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://Deba404.github.io/Final-Project/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
